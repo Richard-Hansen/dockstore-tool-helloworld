@@ -1,6 +1,6 @@
 #!/usr/bin/env cwl-runner
 
-class: CommandLineTool
+class: Workflow
 id: "hello-world"
 label: "Simple hello world tool"
 
